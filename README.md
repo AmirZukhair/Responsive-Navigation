@@ -10,3 +10,6 @@ media query
 </ol>
 
 <p>I've learnt how to create responsive navigation with simple javascript DOM</p>
+
+<img src="https://i.ibb.co/TTxmQZm/groot.png" alt="groot" border="0">
+
